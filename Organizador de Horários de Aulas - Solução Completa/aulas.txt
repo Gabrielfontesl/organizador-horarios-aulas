@@ -1,0 +1,47 @@
+Algoritmos e Estruturas de Dados I - Prof. Silva 90min
+
+Cálculo Diferencial e Integral - Prof. Maria 120min
+
+Programação Orientada a Objetos - Prof. Silva 75min
+
+Física Aplicada à Computação - Prof. Roberto 60min
+
+Fundamentos de Banco de Dados - Prof. Ana 90min
+
+Estatística e Probabilidade - Prof. Maria 45min
+
+Arquitetura de Computadores - Prof. Carlos 60min
+
+Engenharia de Software - Prof. Ana 105min
+
+Redes de Computadores - Prof. Roberto 75min
+
+Inteligência Artificial - Prof. Silva 45min
+
+Sistemas Operacionais - Prof. Carlos 90min
+
+Compiladores - Prof. Roberto 120min
+
+Teoria da Computação - Prof. Maria 60min
+
+Segurança da Informação - Prof. Carlos 45min
+
+Interface Humano-Computador - Prof. Ana lightning
+
+Computação Gráfica - Prof. Roberto 90min
+
+Desenvolvimento Web - Prof. Silva 60min
+
+Mobile Development - Prof. Ana 75min
+
+DevOps e Cloud Computing - Prof. Carlos 45min
+
+Machine Learning - Prof. Maria 105min
+
+Blockchain e Criptomoedas - Prof. Roberto lightning
+
+Ética em Tecnologia - Prof. Silva lightning
+
+Metodologia Científica - Prof. Ana 30min
+
+Empreendedorismo Digital - Prof. Carlos 30min
